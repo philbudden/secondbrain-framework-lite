@@ -39,6 +39,22 @@ Do not ask the LLM to update files that you did not upload. Do not rely on the c
 - The user remains responsible for judgement, review, and saving documents.
 - Durable context should be compact, current, and useful in future chats.
 
+## Skill Menu
+
+The reusable prompts live in `30 Skills/`. Start with the menu below, then open the skill file you need.
+
+| Skill | Use It When You Want To |
+|---|---|
+| `daily-note-rollover.md` | Create today's Daily Note from yesterday's note. |
+| `meeting-prep.md` | Prepare for a meeting using a Context Pack and optional Daily Note. |
+| `actions-from-meeting.md` | Turn meeting notes or a transcript into actions, decisions, updated context, and an optional Daily Note update. |
+| `minutes.md` | Produce structured meeting minutes from rough notes or a transcript. |
+| `context-pack-refresh.md` | Refresh durable workstream context from recent activity. |
+| `workstream-status-review.md` | Get a clear status readout from a Context Pack and recent notes. |
+| `thinking-interview.md` | Develop your own thinking through a one-question-at-a-time interview. |
+| `voice.md` | Analyse approved writing samples and create or update a practical voice guide. |
+| `resolve-document-items.md` | Work through unresolved questions, placeholders, owners, and actions in a document. |
+
 ## Getting Started
 
 1. Copy `10 Daily/daily-note-template.md` to `10 Daily/YYYY-MM-DD.md`.
