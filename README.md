@@ -47,6 +47,7 @@ The reusable prompts live in `30 Skills/`. Start with the menu below, then open 
 |---|---|
 | `daily-note-rollover.md` | Create today's Daily Note from yesterday's note. |
 | `meeting-prep.md` | Prepare for a meeting using a Context Pack and optional Daily Note. |
+| `live-meeting-copilot.md` | Use a preloaded briefing pack for fast, concise typed support during a live meeting. |
 | `actions-from-meeting.md` | Turn meeting notes or a transcript into actions, decisions, updated context, and an optional Daily Note update. |
 | `minutes.md` | Produce structured meeting minutes from rough notes or a transcript. |
 | `context-pack-refresh.md` | Refresh durable workstream context from recent activity. |
@@ -60,5 +61,5 @@ The reusable prompts live in `30 Skills/`. Start with the menu below, then open 
 1. Copy `10 Daily/daily-note-template.md` to `10 Daily/YYYY-MM-DD.md`.
 2. Create one Context Pack from `20 Context Packs/context-pack-template.md` for an active workstream.
 3. Use `30 Skills/daily-note-rollover.md` each morning to create today's Daily Note from yesterday's note.
-4. Use `30 Skills/meeting-prep.md` before a meeting and `30 Skills/actions-from-meeting.md` after it.
+4. Use `30 Skills/meeting-prep.md` before a meeting, `30 Skills/live-meeting-copilot.md` during it when useful, and `30 Skills/actions-from-meeting.md` after it.
 5. Refresh Context Packs when meetings, decisions, risks, or action state materially change.

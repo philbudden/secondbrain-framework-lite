@@ -8,6 +8,7 @@ Skills in this framework are reusable prompts. They are not software, scripts, p
 |---|---|---|
 | [Daily Note Rollover](daily-note-rollover.md) | Creates today's Daily Note from yesterday's note, carrying forward relevant open context without copying stale activity. | Yesterday's Daily Note. Optional: a current Context Pack or calendar summary. |
 | [Meeting Prep](meeting-prep.md) | Produces a practical meeting brief with likely issues, decisions needed, questions to ask, and optional Daily Note update. | Context Pack. Optional: today's Daily Note, meeting invite, agenda, or organiser note. |
+| [Live Meeting Copilot](live-meeting-copilot.md) | Provides fast, concise in-meeting support from a preloaded briefing pack and meeting posture. | Compact briefing pack and meeting posture. Optional: Context Pack, agenda, invitation, or directly relevant summaries. |
 | [Actions From Meeting](actions-from-meeting.md) | Extracts actions, decisions, risks, dependencies, and open questions from meeting notes, then updates durable context. | Context Pack and transcript or rough notes. Optional: today's Daily Note. |
 | [Minutes](minutes.md) | Turns transcript or rough notes into structured minutes, with optional Context Pack and Daily Note updates. | Transcript or rough notes. Optional: Context Pack, Daily Note, agenda. |
 | [Context Pack Refresh](context-pack-refresh.md) | Updates a workstream Context Pack from recent notes while keeping it compact and future-useful. | Context Pack. Optional: recent Daily Notes, minutes, action plans, or written update. |
